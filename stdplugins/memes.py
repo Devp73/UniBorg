@@ -7,6 +7,13 @@ import time
 
 
 
+
+
+from userbot.events import register
+
+
+
+
 METOOSTR = [
     "`Me too thanks`",
     "`Haha yes, me too`",
