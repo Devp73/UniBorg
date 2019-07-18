@@ -1,22 +1,25 @@
-""".admin Plugin for @UniBorg"""
-import asyncio
 from telethon import events
-from telethon.tl.types import ChannelParticipantsAdmins
+import random, re
 from uniborg.util import admin_cmd
+import asyncio 
 
 
-@borg.on(admin_cmd("alive"))
+
+@borg.on(admin_cmd("gangasta ?(.*)"))
 async def _(event):
-    if event.fwd_from:
-        return
-    mentions = "`Your bot is running\n\nTelethon version: 6.9.6.9\nPython: 6.9.6.9`\nUser: @shivamkchoudhary`\nDatabase Status: Databases functioning normally!`"
-    chat = await event.get_input_chat()
-    async for x in borg.iter_participants(chat, filter=ChannelParticipantsAdmins):
-        mentions += f""
-    reply_message = None
-    if event.reply_to_msg_id:
-        reply_message = await event.get_reply_message()
-        await reply_message.reply(mentions)
-    else:
-        await event.reply(mentions)
-    await event.delete()
+     if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
+        await event.edit("EVERyBOdy")
+        await asyncio.sleep(0.3)
+        await event.edit("iZ")
+        await asyncio.sleep(0.2)
+        await event.edit("GangSTur")
+        await asyncio.sleep(0.5)
+        await event.edit("UNtIL ")
+        await asyncio.sleep(0.2)
+        await event.edit("I")
+        await asyncio.sleep(0.3)
+        await event.edit("ArRivE")
+        await asyncio.sleep(0.3)
+        await event.edit("??")
+        await asyncio.sleep(0.3)
+        await event.edit("EVERyBOdy iZ GangSTur UNtIL I ArRivE ??")
