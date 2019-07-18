@@ -6,10 +6,14 @@ METOOSTR = [
     "`Me too thanks`",
     "`Haha yes, me too`",
     "`Same lol`",
-    "`Me irl`",
-    "`Same here`",
-    "`Haha yes`",
+    "`Haha yash`",
     "`Same pinch bsdk`",
+    "`Bhai Bhai`",
+    "`Bhai BSDK :)`",
+    "`Dil Vit it`",
+    "`Ja dekh jake Recaard me, Insaan hu ya Bhagwaan!`",
+    "`Bawaal cheez hai be, Saara system hiladia`",
+    "`Helpme, Bhai BSDK`",
 ]
 RUNSREACTS = [
     "`Runs to Thanos`",
@@ -34,12 +38,15 @@ RAPE_STRINGS = [
 ABUSE_STRINGS = [
        "`Madharchod`",
 	   "`Gaandu`",
-	   "`Chutiya he rah jaye ga`",
+	   "`Chutiya hi rah jayega`",
 	   "`Ja be Gaandu`",
 	   "`Ma ka Bhodsa madharchod`",
 	   "`mml`",
 	   "`You MotherFukcer`",
 	   "`Muh Me Lega Bhosdike ?`"
+	   "`Bhai BSDK`",
+	   "`Madarchod Bhsodike macchar ki jhaat gandu makichut teri, tatto ke saudagar`",
+	   "`Mene tere se bola madarchud?`","
 ]
 ABUSEHARD_STRING = [
 	"`Madarchod Randi ke bacche.Oye bosdike madarchod bhen ke lode tere gand me lohe ka danda garam karke dalu randwe tujhetho gali ke kutte gand pe chut rakh ke katenge me bata raha hu tere lode pe madhu makkhi Katelode ke ando pe Road roller chale tu kab bathroom me muthne Jaye tho Tera loda ghir Jaye fir tere ando me se lizard ke bacche nikle teko kidnap Kare aur childporn banaye maa ke chuttad ke lode tere saat Johnny sins rape Kare aur jab wo teko anal de tab loda andar fas Jaye bkl tere jhaat pe waxing karunga me dhek lio fir jab tu chillayega na tab tere muh me Mai gai ka gobar dalunga sale tere gand ke balo pe tel laga ke jala du me teko Anaconda leke gand me dalu tho muh se nikle maa ke lode hamesha chutiyo jaisa bartav kartha he tu maa ke Dai chawal drugs tere gand Me dalunga thi tatti nahi nikle maa darchod kabhi teko Marne ka mouka mil gaya na tho bas I'll do my best to get that tatti outof you aur tere jaise chutio ko is duniya me jagaha bhi nahi maa ke lode bandarchod tere gand me chitiya Kate wo bhi bullet ants maadarchod samj nahi aaraha tere baap NE teko kya khake paida kiya Tha kesa chutiya he tu rand ke bacche teko shadi me khana khane na mile teko gand pe 4 thappad mare sab log aur blade se likhe I want anal madarchod bosdike maccharki tatte ke baal chutiye maa ke chut pe ghode ka Lund tere gand me jaltha hu koila Dale bhen ke lode MAA KI CHUT MAI TALWAR DUNGA BC CHUT FAT JAEGI AUR USME SE ITNA KHOON NIKLEGA MZA AJAEGA DEKHNE KA SALE MAA KE BHOSDE SE BAHR AJA FIR BAAP SE ZUBAN DA TERI MAA KI CHUT CHOD CHOD KE BHOSDABNADU MADARCHOD AUR USKE UPAR CENENT LAGADU KI TERE JESA GANDU INSAAN KABHI BAHR NA A SKE ESI GANDI CHUT MAI SE LODA LASUN MADRCHOD TERI MAA KI CHUT GASTI AMA KA CHUTIA BACHA TERI MAA KO CHOD CHOD K PAGAL KAR DUNGA MAA K LODY KISI SASTIII RANDII K BACHY TERI MAA KI CHOOT MAIN TEER MAARUN GANDU HARAMI TERI COLLEGE JATI BAJI KA ROAD PEY RAPE KARONGANDU KI OLAAD HARAM KI NASAL PAPA HUN TERA BHEN PESH KAR AB PAPA KO TERI MAA KKALE KUSS MAIN KIS`",
@@ -52,10 +59,15 @@ GEY_STRINGS = [
      "`you chakka`",
      "`you gey gey gey gey gey gey gey gey`",
      "`you gey go away`",
+     "`Bhago BC, chakka aya`",
 ]
 PRO_STRINGS = [
      "`This gey is pro as phack.`",
      "`Pros here -_- Time to Leave`",
+	"`What are you bsdk?Human or Gawd` (+_+)",
+     "`Aye pedo gey, send moni pls`",
+     "`U iz pru & I iz nub`",
+     "`PROness Level : 696969`",
 ]
 INSULT_STRINGS = [ 
     "`Owww ... Such a stupid idiot.`",
@@ -69,7 +81,6 @@ INSULT_STRINGS = [
     "`You didn't evolve from apes, they evolved from you.`",
     "`What language are you speaking? Cause it sounds like bullshit.`",
     "`You are proof that evolution CAN go in reverse.`",
-    "`I would ask you how old you are but I know you can't count that high.`",
     "`As an outsider, what do you think of the human race?`",
     "`Ordinarily people live and learn. You just live.`",
     "`Keep talking, someday you'll say something intelligent!.......(I doubt it though)`",
@@ -84,9 +95,12 @@ INSULT_STRINGS = [
     "`You should Volunteer for target in an firing range.`",
     "`Try playing catch and throw with RDX its fun.`",
     "`People like you are the reason we have middle fingers.`",
-    "`When your mom dropped you off at the school, she got a ticket for littering.`",
     "`You’re so ugly that when you cry, the tears roll down the back of your head…just to avoid your face.`",
     "`If you’re talking behind my back then you’re in a perfect position to kiss my a**!.`",
+    "`Taare hain aasmaan me very very bright jhaant na jala bsdk dekh le apni height.`",
+    "`Yaar ajab tere nkhare,gazab tera style hain, gand dhone ki tameez nahi, haath main mobile hai`",
+    "`Saawan ka mahina pawan kare shor jake gand mara bskd kahi aur.`", 
+    "`Dil ke armaa ansuon me beh jaye tum bskd ke chutiye hi reh gye.`",
 ]
 # ===========================================
                           
