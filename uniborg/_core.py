@@ -45,7 +45,7 @@ async def remove(event):
     await msg.delete()
 
 
-@borg.on(util.admin_cmd(pattern="send plugin (?P<shortname>\w+)$"))  # pylint:disable=E0602
+@borg.on(util.admin_cmd(pattern="send (?P<shortname>\w+)$"))  # pylint:disable=E0602
 async def send_plug_in(event):
     if event.fwd_from:
         return
